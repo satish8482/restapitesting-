@@ -1,0 +1,23 @@
+{
+  "name": "restapitesting-",
+  "version": "1.0.0",
+  "description": "Testing api using mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satish8482/restapitesting-.git"
+  },
+  "author": "Satish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satish8482/restapitesting-/issues"
+  },
+  "homepage": "https://github.com/satish8482/restapitesting-#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
